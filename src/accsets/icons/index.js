@@ -1,0 +1,13 @@
+export { default as IconTwitter } from "./IconTwitter";
+export { default as IconFacebook } from "./IconFacebook";
+export { default as IconInstagram } from "./IconInstagram";
+export { default as IconYoutube } from "./IconYoutube";
+export { default as IconHome } from "./IconHome";
+export { default as IconLearn } from "./IconLearn";
+export { default as IconVideo } from "./IconVideo";
+export { default as IconConversation } from "./IconConversation";
+export { default as IconLoginFace } from "./IconLoginFace";
+export { default as IconGoogle } from "./IconGoogle";
+export { default as IconApple } from "./IconApple";
+export { default as IconDown } from "./IconDown";
+export { default as IconStar } from "./IconStar";
